@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unordered/test/"}
+{"dg-publish":true,"permalink":"/unordered/test/","tags":["gardenEntry"]}
 ---
 
 # this is for test 
