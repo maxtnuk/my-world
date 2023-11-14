@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/introduction/","noteIcon":"","created":"2023-11-12T17:05:13.669+09:00","updated":"2023-11-14T15:08:37.345+09:00"}
+{"dg-publish":true,"permalink":"/home/introduction/","noteIcon":"","created":"2023-11-12T17:05:13.669+09:00","updated":"2023-11-14T15:14:23.752+09:00"}
 ---
 
 ## **📑 intro**
@@ -18,7 +18,7 @@
 ### basic
 email: matnuk@gmail.com
 https://github.com/maxstate
-```embed
+```cardlink
 title: "maxstate - Overview"
 image: "https://avatars.githubusercontent.com/u/86220942?v=4?s=400"
 description: "SoftWare Engineer. maxstate has 4 repositories available. Follow their code on GitHub."
@@ -26,7 +26,7 @@ url: "https://github.com/maxstate"
 ```
 ### blog
 https://maxtnuk-garden.netlify.app/
-```embed
+```cardlink
 title: "home"
 image: "https://maxtnuk-garden.netlify.app/apple-touch-icon.png"
 description: "I’m an explorer of new territory and a problem-solving System Developer."
@@ -35,7 +35,7 @@ url: "https://maxtnuk-garden.netlify.app/"
 
 ### linkedin
 https://www.linkedin.com/in/%EC%86%A1%EC%8A%B9%ED%98%B8-9746a3137/
-```embed
+```cardlink
 title: "Seung Ho Song - Software Developer - FuriosaAI | LinkedIn"
 image: "https://media.licdn.com/dms/image/C5603AQH3ZlGR6zcAjg/profile-displayphoto-shrink_200_200/0/1646466500781?e=2147483647&v=beta&t=Ba6dVn3nsjPPC2XC6sN0xzTyWTJAG1tGbBivCpc7wRw"
 description: "System engineer / Machine learning engineer<br><br>I like to adopt new technologies if i want, no fear to implement frameworks, libraries that i have not met before <br><br>What i can do in confidence <br> - Language <br> • Rust (this is my best)<br> • Kotlin<br> • Elixir<br> - Machine lear…"
@@ -43,7 +43,7 @@ url: "https://www.linkedin.com/in/%EC%86%A1%EC%8A%B9%ED%98%B8-9746a3137/"
 ```
 ### velog 
 https://velog.io/@maxtnuk
-```embed
+```cardlink
 title: "maxtnuk (maxtnuk) - velog"
 image: "https://images.velog.io/velog.png"
 description: "Rust로 무난하게 개발하는 사람"
